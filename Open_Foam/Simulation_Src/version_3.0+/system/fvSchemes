@@ -51,8 +51,8 @@ snGradSchemes
 
 fluxRequired
 {
-default         no;
-  p;
+    default         no;
+    p;
 }
 
 
